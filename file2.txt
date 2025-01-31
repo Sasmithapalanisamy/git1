@@ -8,3 +8,5 @@ git branch -d <branchname>|git branch -D <branchname>
 
 //revert the changes
 git rm --cached
+
+git reset --hard HEAD^
