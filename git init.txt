@@ -1,0 +1,27 @@
+git init	//new Git repository
+
+file1.txt
+	hello...
+git add filename	//adds change in the current directory and push to staging area
+
+git status	//state of working directory
+
+(for the 1st time sign to the git)
+then
+git config --global user.name username
+git congig --global email emailed
+git commit -m "first commit"
+//modify ur file
+//the status will be tracked
+then again
+git add file1.txt      //if git add .  //it will add all files in the directory
+git commit -m "second commit"
+
+git checkout
+git log		//
+//if want to know more 
+git help add
+
+
+github-->remote repo
+
