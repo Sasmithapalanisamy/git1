@@ -1,1 +1,10 @@
 hi iam from here
+git branch <branchname>
+git checkout<branchname>
+git branch -d <branchname>|git branch -D <branchname>
+
+.gitignore //tells git which directory or file to ignore
+
+
+//revert the changes
+git rm --cached
